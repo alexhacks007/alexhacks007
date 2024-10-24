@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python fullstack development**
 
-- 👨‍💻 All of my projects are available at [https://alexraj007.github.io/pro/?fbclid=PAZXh0bgNhZW0CMTEAAaYOSFe286cX3LVITHp3fLcPutZNInNaesZMFzZLtDZNYc__R7In8T28WxY_aem_l7w2sCxhkiEZFt60qVQw9Q](https://alexraj007.github.io/pro/?fbclid=PAZXh0bgNhZW0CMTEAAaYOSFe286cX3LVITHp3fLcPutZNInNaesZMFzZLtDZNYc__R7In8T28WxY_aem_l7w2sCxhkiEZFt60qVQw9Q)
+- 👨‍💻 All of my projects are available at [Profile](https://alexraj007.github.io/pro/?fbclid=PAZXh0bgNhZW0CMTEAAaYOSFe286cX3LVITHp3fLcPutZNInNaesZMFzZLtDZNYc__R7In8T28WxY_aem_l7w2sCxhkiEZFt60qVQw9Q)
 
 - 💬 Ask me about **react**
 
